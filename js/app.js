@@ -43,7 +43,7 @@ function shownote() {
         noteselm.innerHTML = html;
     }
     else {
-        noteselm.innerHTML = `nothing to show! add something by "add section`;
+        noteselm.innerHTML = `Nothing to show! add something by writing and clicking on"add" button`;
     }
 
 }
